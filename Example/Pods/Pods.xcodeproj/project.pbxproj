@@ -37,11 +37,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		01B4B67DA56948B1E2ACFFD8A8299458 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		01B4B67DA56948B1E2ACFFD8A8299458 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		06F9DB1B6256F992809445E063B84F41 /* Pods-TFLibTest2_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TFLibTest2_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		0853580831EC252DF517AEAB4CBEC94B /* TFLibTest2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TFLibTest2.debug.xcconfig; sourceTree = "<group>"; };
 		0D44B0433833D152EA8A3AA6B66027FA /* Pods-TFLibTest2_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TFLibTest2_Tests-umbrella.h"; sourceTree = "<group>"; };
-		12BB9691BA7A1AE829A9FF8C96A20922 /* Pods_TFLibTest2_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TFLibTest2_Tests.framework; path = "Pods-TFLibTest2_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		12BB9691BA7A1AE829A9FF8C96A20922 /* Pods_TFLibTest2_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TFLibTest2_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		19A87CB8186AC5BE0948495B22ECCD8D /* Pods-TFLibTest2_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TFLibTest2_Example-Info.plist"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3E14DE919ED998BC9827E5232DB88411 /* TFLibTest2.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TFLibTest2.modulemap; sourceTree = "<group>"; };
@@ -54,20 +54,20 @@
 		6AA2923EF014049BEEDE70659267BD86 /* Pods-TFLibTest2_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TFLibTest2_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		8262BEC116432F17495AB51404833B1B /* TFLibTest2-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TFLibTest2-prefix.pch"; sourceTree = "<group>"; };
 		938DC8C0766C3083CD8DCCE1AE7FB3CA /* TFLibTest2-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TFLibTest2-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E7C1DFCBA279314A824AF7658494267 /* Pods-TFLibTest2_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TFLibTest2_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		A21BF7A7A8865CD1D7EEFEF4908946CA /* TFLibTest2.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = TFLibTest2.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A21BF7A7A8865CD1D7EEFEF4908946CA /* TFLibTest2.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = TFLibTest2.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		A80B31718D9CF7B92799CF5E9527E6BF /* Pods-TFLibTest2_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TFLibTest2_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B20CFAA570A712204115C27457F79E9B /* TFLibTest2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TFLibTest2.release.xcconfig; sourceTree = "<group>"; };
-		B4D61347E62CDC8D7ACA86CDE55780AD /* Pods_TFLibTest2_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TFLibTest2_Example.framework; path = "Pods-TFLibTest2_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B4D61347E62CDC8D7ACA86CDE55780AD /* Pods_TFLibTest2_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TFLibTest2_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5FF662AB44D44634EF544AECBA0C73F /* Pods-TFLibTest2_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TFLibTest2_Example-umbrella.h"; sourceTree = "<group>"; };
 		BDA17B13841FF02C6B8CC31449DE475F /* Pods-TFLibTest2_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TFLibTest2_Tests-Info.plist"; sourceTree = "<group>"; };
 		BED7CD96E79B6C771EBC6A33FB8D8471 /* Pods-TFLibTest2_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TFLibTest2_Example.modulemap"; sourceTree = "<group>"; };
 		C0282CF796C46B54376975B0DACA51FE /* Pods-TFLibTest2_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TFLibTest2_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		CCE4E1789C895C7CC946BB7FD40C1619 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = TFLibTest2/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		D233C081B7F7FFD2FCAA10CF891CBAF8 /* Pods-TFLibTest2_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TFLibTest2_Example-dummy.m"; sourceTree = "<group>"; };
-		D2A620DB965024AF68F28EC581876F04 /* TFLibTest2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TFLibTest2.framework; path = TFLibTest2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E3621B31CAA348C2FBE45A223455F8BB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		D2A620DB965024AF68F28EC581876F04 /* TFLibTest2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TFLibTest2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E3621B31CAA348C2FBE45A223455F8BB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EB91F23947DB2EE5492A3E808665F0FA /* TFLibTest2-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TFLibTest2-umbrella.h"; sourceTree = "<group>"; };
 		FB9C4E7E6C8FC089664F0F6605D68054 /* Pods-TFLibTest2_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TFLibTest2_Example-frameworks.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -491,8 +491,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
