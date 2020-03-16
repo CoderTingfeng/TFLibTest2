@@ -1,0 +1,16 @@
+PODS:
+  - TFLibTest2 (0.1.0)
+
+DEPENDENCIES:
+  - TFLibTest2 (from `../`)
+
+EXTERNAL SOURCES:
+  TFLibTest2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TFLibTest2: fd6d54753990ab534cb6918928ce880b31fa3d20
+
+PODFILE CHECKSUM: 32a7e757e49c80e6ba5b3d6da577b894e0b29032
+
+COCOAPODS: 1.9.1
